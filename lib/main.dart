@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
     },
     {
       'questionText': 'What\'s your favorite food?',
-      'answers': ['Pizza', 'Fish', 'Fruits', 'Steak'],
+      'answers': ['Pizza', 'Fish', 'Fruits', 'Veggies'],
     },
   ];
   var _questionIndex = 0;
